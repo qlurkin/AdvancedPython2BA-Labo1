@@ -1,4 +1,4 @@
 language: python
 python:
   - "3.5"
-script: python3 utils.py
+script: python3 test_utils.py
